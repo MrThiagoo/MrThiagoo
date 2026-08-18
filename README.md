@@ -18,8 +18,8 @@
 </p>
 
 <p align="center"> ── GitHub Stats ── </p>
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrThiagoo&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrThiagoo&layout=compact&theme=default&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrThiagoo&theme=default&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrThiagoo&theme=default&hide_border=true" /> </p>
 
-🌐 Social Platforms
-<p align="left"> <a href="https://linkedin.com/in/yourprofile" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/yourhandle" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://instagram.com/yourhandle" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://discord.com/users/yourid" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://youtube.com/@yourhandle" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="mailto:your.email@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<p align="center"><i>Thanks for stopping by! ⭐ this profile if you found it inspiring.</i></p>
+<p align="center" >── Redes Sociais ── </p>
+<p align="center"> <a href="https://www.linkedin.com/in/thiago-henrique-gerber-419a89265/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/thiago.thoughts" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://discord.com/users/yourid" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> </p>
+<p align="center"><i>Tamo junto!</i></p>
