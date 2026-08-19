@@ -2,7 +2,7 @@
 
 ぎ Repositório de projetos atual: <p align="center"> <a href="https://github.com/MrThiagoo/Java-Projetos" target="_blank"> <img src="https://img.shields.io/badge/Meus%20Projetos%20Java-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /> </a> </p>
 <p> ── Estou aprendendo atualmente: Java e Python </p>
-<p> ── Email para contato: [thiagohenrii0509@gmail.com] </p>
+<p> ── Email para contato: thiagohenrii0509@gmail.com </p>
 <p> ── Não sei programar lol  </p>
   <br></br>
 <p align="Center"> ⫘⫘⫘⫘⫘⫘ Projetos em andamento ⫘⫘⫘⫘⫘⫘ </p>
