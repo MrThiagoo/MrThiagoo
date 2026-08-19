@@ -5,7 +5,7 @@
 <p> ── Email para contato: [thiagohenrii0509@gmail.com] </p>
 <p> ── Não sei programar lol  </p>
   <br></br>
-<p align="Center"> ⫘⫘⫘⫘⫘⫘ Projetos atuais ⫘⫘⫘⫘⫘⫘ </p>
+<p align="Center"> ⫘⫘⫘⫘⫘⫘ Projetos em andamento ⫘⫘⫘⫘⫘⫘ </p>
 <p align="Center">  Ainda pensando em algo... </p>
   <br></br>
 <p align="center"> ── Linguagens e Ferramentas de Uso ── </p>
